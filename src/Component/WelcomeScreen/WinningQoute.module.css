@@ -1,0 +1,106 @@
+.winningQuote{
+    font-size: 1.4rem;
+    font-style: italic;
+    font-weight: 600;
+}
+.halfCompletion{
+    font-style: italic;
+  font-size: 1.4rem;
+  margin-left: 80rem;
+  margin-top: -4rem;
+  font-weight: 600;
+  background-color: rgb(228, 212, 224);
+  border-radius: 10px;
+ 
+}
+.contactDetails{
+  font-size: 1.8rem;
+
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin-left: 44rem;
+  
+}
+
+.cancel{
+  border-color: red;
+  color: red;
+  font-size: 1.1rem;
+  border-radius: 6px;
+  padding: 6px 15px;
+  background-color: #fff;
+  cursor: pointer;
+  margin-left: 46rem;
+  margin-top: 2rem;
+}
+.cancel:hover{
+  background-color: #aaa9a9;
+}
+
+.verifyEmail{
+  background-color: rgb(218, 95, 95);
+  border-radius: 0.5rem;
+font-size: 1rem;
+  padding: 15px 10px;
+  cursor: pointer;
+}
+.verifyEmail:hover{
+  background-color: rgb(153, 1, 1);
+}
+.logout{
+  background-color: rgb(218, 95, 95);
+  color: rgb(250, 250, 250);
+  font-weight: 600;
+  padding: 0.8rem 0.8rem;
+  font-size: 1rem;
+  border-radius: 1rem;
+  margin-left: 94%;
+  cursor: pointer;
+}
+.logout:hover{
+  background-color: rgb(228, 156, 156);
+}
+
+.inputFields {
+  margin-top: 5rem;
+  margin-left: 44rem;
+  font-size: 1.5rem;
+  text-align: left; 
+  border-width: 17rem;
+}
+
+.fullNameInput, .profileURLInput {
+  text-align: left; 
+  padding: 7px;
+  width: 32%; 
+  border-radius: 5px; 
+  margin-bottom: 10px; 
+  margin-right: 1rem;
+  font-size: large;
+  font-weight: 500;
+}
+
+
+
+.update{
+  margin-left: 43rem;
+  border-radius: 6px;
+  border-color: rgb(218, 95, 95);
+  margin-top: 3rem;
+  font-size: 1.2rem;
+  color: #fff;
+  font-weight: bold;
+  background-color: rgb(218, 95, 95);
+  cursor: pointer;
+  padding: 10px 17px;
+}
+.updateLine {
+  width: 62%; 
+  margin-left: 42rem;
+  margin-top: 1.4rem;
+  border-top: 1px solid #aaa9a9; 
+}
+.update:hover{
+  background-color: rgb(151, 107, 107);
+}
+
+
